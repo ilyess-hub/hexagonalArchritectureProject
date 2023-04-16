@@ -1,0 +1,6 @@
+org\example\service\BookServiceImpl.class
+org\example\data\BookDto$BookDtoBuilder.class
+org\example\Main.class
+org\example\ports\api\BookServicePort.class
+org\example\data\BookDto.class
+org\example\ports\spi\BookPersistencePort.class
